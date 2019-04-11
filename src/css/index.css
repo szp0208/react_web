@@ -1,0 +1,15 @@
+@charset "urf-8";
+.header {
+    height: 80px;
+    line-height: 80px;
+    border: 1px solid #dcdc;
+}
+.header li {
+    float: left;
+    width: 120px;
+    text-align: center;
+    margin-right: 5px;
+}
+.contain {
+    margin-top: 16px;
+}
